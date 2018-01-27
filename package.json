@@ -1,0 +1,26 @@
+{
+  "name": "test_module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axayjain/test_module.git"
+  },
+  "author": "Akshay Jain <anksjain5@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axayjain/test_module/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/axayjain/test_module#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  }
+}
